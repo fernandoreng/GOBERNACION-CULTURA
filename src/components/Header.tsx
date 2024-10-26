@@ -11,7 +11,7 @@ export default function Header() {
               <Menu className="h-6 w-6" />
             </button>
             <img 
-              src="https://raw.githubusercontent.com/StackBlitz/stackblitz-assets/master/cauca-logo.png" 
+              src="img/Captura de pantalla 2024-10-25 175539.png" 
               alt="Gobernación del Cauca" 
               className="h-16 w-auto"
             />

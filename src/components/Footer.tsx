@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4 text-gray-800">GOBERNACIÓN DEL CAUCA</h3>
             <img 
-              src="https://raw.githubusercontent.com/StackBlitz/stackblitz-assets/master/cauca-logo.png" 
+              src="img/Captura de pantalla 2024-10-25 175539.png" 
               alt="Gobernación del Cauca" 
               className="w-32 mb-4"
             />

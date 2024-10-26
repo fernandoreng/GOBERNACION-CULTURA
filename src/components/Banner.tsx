@@ -6,19 +6,19 @@ const bannerItems = [
     id: 1,
     title: "The Future of AI in 2024",
     description: "Exploring the latest breakthroughs in artificial intelligence",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1920",
+    image: "img/Captura de pantalla 2024-10-10 140506.png",
   },
   {
     id: 2,
     title: "Sustainable Technology",
     description: "How tech companies are going green",
-    image: "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&q=80&w=1920",
+    image: "img/Captura de pantalla 2024-10-10 142316.png",
   },
   {
     id: 3,
     title: "Web Development Trends",
     description: "What's new in web development for 2024",
-    image: "https://images.unsplash.com/photo-1627398242454-45a1465c2479?auto=format&fit=crop&q=80&w=1920",
+    image: "img/Captura de pantalla 2024-10-10 140709.png",
   },
 ];
 

@@ -4,20 +4,20 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const bannerItems = [
   {
     id: 1,
-    title: "The Future of AI in 2024",
-    description: "Exploring the latest breakthroughs in artificial intelligence",
+    title: "LOS SONIDOS DE NUESTRAS RAICES",
+    description: "14 al 18 de Octubre 2024",
     image: "img/Captura de pantalla 2024-10-10 140506.png",
   },
   {
     id: 2,
-    title: "Sustainable Technology",
-    description: "How tech companies are going green",
+    title: "CONGRESO GASTRONOMICO DE POPAYAN",
+    description: "5 al 7 de septiembre 2024",
     image: "img/Captura de pantalla 2024-10-10 142316.png",
   },
   {
     id: 3,
-    title: "Web Development Trends",
-    description: "What's new in web development for 2024",
+    title: "Cuenta lo que vives",
+    description: "10 al 16 Octubre 2024",
     image: "img/Captura de pantalla 2024-10-10 140709.png",
   },
 ];
